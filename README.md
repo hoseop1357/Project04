@@ -5,3 +5,4 @@ Project 04 version1 completed
 2nd Team Member: <이유섭>
 2nd Team Member: <20221062>
 Project 04 version2 completed
+3rd Team Member: <황승희>
