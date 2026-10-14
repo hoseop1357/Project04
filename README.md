@@ -5,3 +5,6 @@ Project 04 version1 completed
 2nd Team Member: <이유섭>
 2nd Team Member: <20221062>
 Project 04 version2 completed
+3rd Team Member: <황승희>
+3rd Team Member: <20251071>
+Project 04 version3 completed
